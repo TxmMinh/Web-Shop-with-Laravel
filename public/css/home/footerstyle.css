@@ -1,0 +1,22 @@
+.footerstyle {
+    padding: 10px;
+    height: 200px;
+    background-color: #ff0000a8;
+}
+
+.footerstyle .contact {
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footerstyle .social {
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    padding-left: 54px;
+}
+

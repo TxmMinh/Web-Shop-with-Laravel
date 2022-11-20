@@ -1,0 +1,14 @@
+body {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.home {
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    background-color: #ff0000a8;
+}
+.home h1 {
+    margin-top: 60px;
+    font-size: 40px;
+}
