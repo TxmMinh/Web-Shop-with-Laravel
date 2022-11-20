@@ -62,3 +62,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Description
+- Trang chủ có chức năng liên hệ, giỏ hàng, tìm kiếm, danh sách sản
+phẩm.
+- Trang Admin có module Danh mục ( chức năng thêm danh mục, xóa
+danh mục, hiển thị danh sách danh mục). module Sản phẩm, module
+Slider (với các chức năng tương tự module Danh mục)
+- Sử dụng Framework Laravel
+- Công cụ sử dụng là VS code, Laragon, MySQL, Template
+- Sử dụng kiến thức xử lý Ajax nâng cao, Đệ quy, Job Events Queue,
+Composer, Command, Bootstrap 4.
